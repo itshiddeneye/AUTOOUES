@@ -1,4 +1,7 @@
-<p align="center" > ![AUTOOUES](https://github.com/user-attachments/assets/3cb7e0fe-4ded-4880-9adf-d6e09eae4c67) </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3cb7e0fe-4ded-4880-9adf-d6e09eae4c67" alt="AUTOOUES" />
+</p>
+
 
 ## 📝 Description
 
