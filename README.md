@@ -6,4 +6,4 @@ AUTOOUES is a powerful and fully automated Bash script for identifying subdomain
 - Targeted Nuclei Scanning: Automatically feeds potentially vulnerable CNAME targets to nuclei using specific subdomain takeover templates for precise validation.
 - Organized Output: Creates a dedicated directory for each scan, saving all results (discovered subdomains, CNAME analysis, Nuclei findings) within it.
 - Interactive Menu: Provides an easy-to-use menu for initiating scans
-- Credit: Includes a credit line for the tool's creator.
+**Credit:** Includes a credit line for the tool's creator..
